@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: My Third Article
-date: 17 July 2022
+title: My First Article
+date: 25 December 2023
 image: /Bob-blog/images/my-third-article/cardimage.jpg
 tags:
   - third
